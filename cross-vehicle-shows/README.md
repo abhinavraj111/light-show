@@ -1,4 +1,4 @@
-# Programming a show with cross-vehicle animations
+....# Programming a show with cross-vehicle animations
 With the tesla_xlights_cross_vehicle_folder, you can program synchronized light shows with cross-vehicle animations for up to 5 vehicles at once.
 
 ## Setup xLights
